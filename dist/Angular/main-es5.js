@@ -47,7 +47,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Angular</p>>\r\n<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Welcome to jenkins continuos deployment</p>>\r\n<router-outlet></router-outlet>\r\n";
+    __webpack_exports__["default"] = "<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: green;\">Angular</p>>\r\n<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Welcome to jenkins continuos deployment</p>>\r\n<router-outlet></router-outlet>\r\n";
     /***/
   },
 

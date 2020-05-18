@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Angular</p>>\r\n<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Welcome to jenkins continuos deployment</p>>\r\n<router-outlet></router-outlet>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: green;\">Angular</p>>\r\n<p style=\"font-weight: bold;text-align: center;font-size: 50px;color: blue;\">Welcome to jenkins continuos deployment</p>>\r\n<router-outlet></router-outlet>\r\n");
 
 /***/ }),
 
